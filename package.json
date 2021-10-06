@@ -1,4 +1,7 @@
 {
+"homepage": "http://gitname.github.io/my-react-portfolio"
+},
+{
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
